@@ -1,0 +1,10 @@
+C:\Users\ЖангельдинТ\source\repos\HomeTask\HomeTask\bin\Debug\HomeTask.exe.config
+C:\Users\ЖангельдинТ\source\repos\HomeTask\HomeTask\bin\Debug\HomeTask.exe
+C:\Users\ЖангельдинТ\source\repos\HomeTask\HomeTask\bin\Debug\HomeTask.pdb
+C:\Users\ЖангельдинТ\source\repos\HomeTask\HomeTask\bin\Debug\Dapper.dll
+C:\Users\ЖангельдинТ\source\repos\HomeTask\HomeTask\bin\Debug\Dapper.xml
+C:\Users\ЖангельдинТ\source\repos\HomeTask\HomeTask\obj\Debug\HomeTask.csprojAssemblyReference.cache
+C:\Users\ЖангельдинТ\source\repos\HomeTask\HomeTask\obj\Debug\HomeTask.csproj.CoreCompileInputs.cache
+C:\Users\ЖангельдинТ\source\repos\HomeTask\HomeTask\obj\Debug\HomeTask.csproj.CopyComplete
+C:\Users\ЖангельдинТ\source\repos\HomeTask\HomeTask\obj\Debug\HomeTask.exe
+C:\Users\ЖангельдинТ\source\repos\HomeTask\HomeTask\obj\Debug\HomeTask.pdb
